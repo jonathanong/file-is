@@ -1,7 +1,7 @@
 {
   "name": "file-is",
   "description": "Check the type of a file or buffer by inspecting its contents",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
   "license": "MIT",
   "repository": "jonathanong/file-is",
