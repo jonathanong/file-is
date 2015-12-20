@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "jonathanong/file-is",
   "dependencies": {
-    "mmmagic": "^0.3.14",
+    "mmmagic": "^0.4.1",
     "stream-to-array": "^2.0.2",
     "type-is": "^1.6.2"
   },
