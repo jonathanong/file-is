@@ -7,7 +7,7 @@
   "repository": "jonathanong/file-is",
   "dependencies": {
     "mmmagic": "^0.3.14",
-    "stream-to-array": "^2.0.2",
+    "stream-to-array": "^2.2.1",
     "type-is": "^1.6.2"
   },
   "devDependencies": {
