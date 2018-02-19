@@ -6,13 +6,13 @@
   "license": "MIT",
   "repository": "jonathanong/file-is",
   "dependencies": {
-    "mmmagic": "^0.3.14",
+    "mmmagic": "^0.4.6",
     "stream-to-array": "^2.0.2",
     "type-is": "^1.6.2"
   },
   "devDependencies": {
     "babel-istanbul": "0",
-    "mocha": "2",
+    "mocha": "^5.0.1",
     "standardberry": "*"
   },
   "scripts": {
