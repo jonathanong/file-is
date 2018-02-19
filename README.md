@@ -1,6 +1,8 @@
 
 # file-is
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jonathanong/file-is.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
